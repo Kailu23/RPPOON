@@ -48,6 +48,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Zad1i2.cs" />
     <Compile Include="Zad3.cs" />
+    <Compile Include="Zad5.cs" />
+    <Compile Include="Zad6.cs" />
+    <Compile Include="Zad7.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
