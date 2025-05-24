@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LV4", "LV4.csproj", "{EE16CF13-A976-4A09-AA5F-B36814631AE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LV2", "..\LV2\LV2\LV2.csproj", "{871FD012-0C2C-1F7B-F6A4-95652C45FD5F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LV3", "..\LV3\LV3\LV3.csproj", "{98CF861B-E949-08B1-16B5-5F395D25130F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LV5", "..\LV5\LV5.csproj", "{AA17C66F-2225-4B8A-B930-0EB68B3E1335}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{98CF861B-E949-08B1-16B5-5F395D25130F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98CF861B-E949-08B1-16B5-5F395D25130F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98CF861B-E949-08B1-16B5-5F395D25130F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA17C66F-2225-4B8A-B930-0EB68B3E1335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA17C66F-2225-4B8A-B930-0EB68B3E1335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA17C66F-2225-4B8A-B930-0EB68B3E1335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA17C66F-2225-4B8A-B930-0EB68B3E1335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
